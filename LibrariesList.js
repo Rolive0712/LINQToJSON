@@ -27,5 +27,9 @@ var results = jLinq.from(records.users)
 * 3. Reactive Extensions for Javascript (RxJS)
 * 4. linq.js – LINQ for JavaScript
 * 5. $Linq
+* 6. http://www.jsoniq.org/
+* 7. http://angryamoeba.co.uk/spahql-announce/
 
+Links:
 http://dotnet.dzone.com/articles/5-linq-javascript-libraries
+http://stackoverflow.com/questions/777455/is-there-a-query-language-for-json
